@@ -193,7 +193,7 @@ Note that the configuration value displayed is `"From KeyVault"`.
 
 ## Summary
 
-This document demonstrated shows how App Service can work with secrets stored in Azure Key Vault without requiring any code changes. Azure Key Vault is a service that provides centralized secrets management, with full control over access policies and audit history.
+This document demonstrated how App Service can work with secrets stored in Azure Key Vault without requiring any code changes. Azure Key Vault is a service that provides centralized secrets management, with full control over access policies and audit history.
 
 ---
 <http://github.markharrison.io>
