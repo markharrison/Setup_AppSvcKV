@@ -122,19 +122,19 @@ Switch to the Key Vault management to enable a policy that allows the Managed Se
 
 Select `Add User`
 
-![](images/AppSvcKVpolicy1.png)
+![](images/AppSvcKVPolicy1.png)
 
 Search for and select the App Service to which we created a MSI.
 
-![](images/AppSvcKVpolicy2.png)
+![](images/AppSvcKVPolicy2.png)
 
 Set permissions to allow 'Get' of secrets.
 
-![](images/AppSvcKVpolicy3.png)
+![](images/AppSvcKVPolicy3.png)
 
 Create the policy.
 
-![](images/AppSvcKVpolicy4.png)
+![](images/AppSvcKVPolicy4.png)
 
 ## Set configuration value in Key Vault
 
